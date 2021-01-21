@@ -1,1 +1,1 @@
-# BlueP
+# Box Class
